@@ -1,9 +1,9 @@
-# digimir
-Digimir: wanted to control a robot hand with just my gestures, but since I couldn't afford a real one, I made a virtual version using MediaPipe and C++. 
-
-Digimir Project
+- Project Digimir -
 Overview
-Digimir (short for Digital Mirror) is a project that combines gesture recognition and simulation into a cohesive system. The goal is to build a robotic hand that can be controlled by hand gestures. However, due to budget constraints, the project simulates this interaction instead. This is achieved using MediaPipe for gesture recognition and a C++ application for the simulation.
+Digimir (short for Digital Mirror) is a project that combines gesture recognition and simulation into a cohesive system.
+The goal is to build a robotic hand that can be controlled by hand gestures. However, due to budget constraints, the
+project simulates this interaction instead. This is achieved using MediaPipe for gesture recognition and a C++ application for the simulation.
+
 
 Prerequisites
 Python 3.7+
