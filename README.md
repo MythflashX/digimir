@@ -12,7 +12,7 @@
 - Raylib
 
 ## Usage
-Simply run the provided batch file to start the project.
+Simply run the provided batch file to start the project. (need to install mandatory python packages and create an environment named mediapipe-env or just edit the bat file)
 
 ## Project Structure
 ```
