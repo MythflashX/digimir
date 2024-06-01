@@ -1,7 +1,3 @@
-Yes, you can copy and paste this into your GitHub README file. Here's a more formatted version for better readability on GitHub:
-
----
-
 # Digimir Project
 
 ## Overview
